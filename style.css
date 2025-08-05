@@ -1,0 +1,17 @@
+#main-header{
+    color:aquamarine ;
+    align-content: center;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+    align-content: center;
+    text-align: center;
+}
+.one{
+    text-align: center;
+}
+.two{
+    background-color: rgb(105, 255, 193);
+    color: rgb(255, 127, 133);
+}
